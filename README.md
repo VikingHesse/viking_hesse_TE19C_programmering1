@@ -1,2 +1,3 @@
 # viking_hesse_TE19C_programmering1
-Programmering1 kurs
+
+Programmering-1 kurs
